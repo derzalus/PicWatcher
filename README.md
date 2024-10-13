@@ -68,8 +68,3 @@ Feel free to fork this project and submit pull requests for any improvements or 
 
 markdown
 Copy code
-
-### Key Changes:
-- **Headers added** for each section: Features, Installation, Usage, Example Message, Customization, License, and Contributing.
-- **Mention of Windows**: I clarified that the installation instructions are specifically for Windows.
-- Clear separation of the steps for easier readability.
