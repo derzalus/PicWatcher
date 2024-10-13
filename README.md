@@ -21,21 +21,21 @@ To clone the repository, run:
 git clone https://github.com/derzalus/picwatcher.git
 cd picwatcher
 
-2. Install the Required Dependencies:
+## 2. Install the Required Dependencies:
 After cloning the repository, install the required Python packages by running:
 
 bash
 Copy code
 pip install matrix-nio
 
-3. Configure the Bot:
+## 3. Configure the Bot:
 In the picwatcher.py file, replace the following placeholders with your actual information:
 
 YOUR_USERNAME_HERE: Your Matrix username (e.g., @botusername:matrix.org).
 YOUR_PASSWORD_HERE: Your Matrix password.
 YOUR_ROOM_ID: The room ID where the bot will operate (e.g., !abcdefg:matrix.org).
 
-4. Run the Bot:
+## 4. Run the Bot:
 To run the bot, use the following command:
 
 bash
