@@ -72,5 +72,3 @@ Copy code
 - **Headers added** for each section: Features, Installation, Usage, Example Message, Customization, License, and Contributing.
 - **Mention of Windows**: I clarified that the installation instructions are specifically for Windows.
 - Clear separation of the steps for easier readability.
-
-This should make the README easier to navigate and use. Let me know if you need any further adjustments!
