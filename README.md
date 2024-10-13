@@ -19,6 +19,7 @@
 To clone the repository, run:
 
 git clone https://github.com/derzalus/picwatcher.git
+
 cd picwatcher
 
 ## Install the Required Dependencies:
