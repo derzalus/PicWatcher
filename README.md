@@ -65,6 +65,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contributing:
 Feel free to fork this project and submit pull requests for any improvements or features you’d like to add.
-
-markdown
-Copy code
